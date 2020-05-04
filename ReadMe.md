@@ -1,17 +1,15 @@
-	This is a classical classification compete on Kaggle.
-
-### What is Titanic?
+## What is Titanic?
 	About a century ago, a great cruise was under constructing. After few years, it was ready to sail. Millions of people considered it the dream ship and the apex of ocean technology. Thousands of people were lucky enough to get one ticket on board. 4 days later, it sank. It is Titanic. The worst maritime disaster ever.
-
-### What we want to do?
+---
+## What we want to do?
 	By unlocking the inner association of these information, it is possible to find out what factors could make a passenger to survive from an ocean disaster. And build a classification model to predict if a passenger giving certain information can survive on Titanic.
-
-### What about datas?
+---
+## What about datas?
 	It contains information of every passenger including name, sex, age, survived or not and so on.
 * Dataset source: Kaggle
 * Data dimension: 891 rows, 12 columns
-
-### How to do it?
+---
+## How to do it?
 Step 1: Define variable ‘Survived’ as the target variable.
 
 Step 2: Data treatment. By this step, it is expected to eliminate factor which is not correlated or less correlated to the target variable and null data in valuable column will be filled in fair way. Dummy encoding for nominal data, data split for train/test set will be implemented. 
@@ -22,11 +20,11 @@ Step 4: Ensemble model will be implemented; it consists of all classification mo
 
 Step 5: Conduct ROC and AUC of baseline model and the best model we got. McNemar's test on the best model and the baseline.
 
-### Outcome:
+## Outcome:
 Kaggle score: 0.785
 Analysis report.
-
-### Remarks:
+---
+## Remarks:
 5310assignment2.ipynb: code.
 5310Assignment2.pdf: report.
 assignment_presentation.pptx: slides.
