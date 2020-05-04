@@ -3,8 +3,10 @@
 
 
 
+
 ## What we want to do?
 	By unlocking the inner association of these information, it is possible to find out what factors could make a passenger to survive from an ocean disaster. And build a classification model to predict if a passenger giving certain information can survive on Titanic.
+
 
 
 
@@ -12,6 +14,7 @@
 	It contains information of every passenger including name, sex, age, survived or not and so on.
 * Dataset source: Kaggle
 * Data dimension: 891 rows, 12 columns
+
 
 
 
@@ -26,11 +29,13 @@
 
 - Step 5: Conduct ROC and AUC of baseline model and the best model we got. McNemar's test on the best model and the baseline.
 
----
+
 
 ## Outcome:
 * Kaggle score: 0.785
 * Analysis report.
+
+
 
 ## Remarks:
 5310assignment2.ipynb: code.
