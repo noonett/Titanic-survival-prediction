@@ -8,19 +8,14 @@ tags:
 ---
 
 ## What is Titanic?
-	About a century ago, a great cruise was under constructing. 
-	After few years, it was ready to sail. 
-	Millions of people considered it the dream ship and the apex of ocean technology. 
-	Thousands of people were lucky enough to get one ticket on board. 4 days later, it sank. 
-	It is Titanic. The worst maritime disaster ever.
+	 The worst maritime disaster ever.
+About a century ago, a great cruise was under constructing. After few years, it was ready to sail. Millions of people considered it the dream ship and the apex of ocean technology. Thousands of people were lucky enough to get one ticket on board. 4 days later, it sank. 
 
 
 
 
 ## What we want to do?
-	By unlocking the inner association of these information, 
-	it is possible to find out what factors could make a passenger to survive from an ocean disaster. 
-	And build a classification model to predict if a passenger giving certain information can survive on Titanic.
+By unlocking the inner association of these information, it is possible to find out what factors could make a passenger to survive from an ocean disaster. And build a classification model to predict if a passenger giving certain information can survive on Titanic.
 
 
 
