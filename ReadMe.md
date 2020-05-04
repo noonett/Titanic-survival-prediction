@@ -1,3 +1,12 @@
+---
+title: Titanic-survival-prediction
+date: 2020-05-04 12:43:11
+tags:
+- Kaggle
+- Machine Learing
+- Python
+---
+
 ## What is Titanic?
 	About a century ago, a great cruise was under constructing. After few years, it was ready to sail. Millions of people considered it the dream ship and the apex of ocean technology. Thousands of people were lucky enough to get one ticket on board. 4 days later, it sank. It is Titanic. The worst maritime disaster ever.
 
