@@ -15,6 +15,7 @@ About a century ago, a great cruise was under constructing. After few years, it 
 
 
 ## What we want to do?
+	Bulid a classification prediction model.
 By unlocking the inner association of these information, it is possible to find out what factors could make a passenger to survive from an ocean disaster. And build a classification model to predict if a passenger giving certain information can survive on Titanic.
 
 
