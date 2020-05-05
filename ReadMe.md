@@ -45,12 +45,3 @@ By unlocking the inner association of these information, it is possible to find 
 ## Outcome:
 * Kaggle score: 0.785
 * Analysis report.
-
-
-
-## Remarks:
-5310assignment2.ipynb: code.
-5310Assignment2.pdf: report.
-assignment_presentation.pptx: slides.
-test.csv: test data.
-titanic.csv: training data.
